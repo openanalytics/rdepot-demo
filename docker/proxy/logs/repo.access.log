@@ -1,0 +1,3 @@
+192.168.49.1 - - [03/Jul/2019:16:48:22 +0200] "GET /repo/ HTTP/1.1" 200 265 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+192.168.49.1 - - [03/Jul/2019:16:48:25 +0200] "GET /repo/src/ HTTP/1.1" 200 278 "http://localhost/repo/" "Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+192.168.49.1 - - [03/Jul/2019:16:48:26 +0200] "GET /repo/src/contrib/ HTTP/1.1" 200 670 "http://localhost/repo/src/" "Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"

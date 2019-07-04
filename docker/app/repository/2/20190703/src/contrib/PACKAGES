@@ -1,0 +1,14 @@
+Package: multiCalibration
+Version: 0.0-5
+Imports: VGAM, bayesm
+License: GPL-3
+MD5sum: 9bbc7816081c20380d957af8bbf95e9b
+NeedsCompilation: no
+
+Package: oaColors
+Version: 0.0.4
+Imports: MASS, grid, RColorBrewer
+License: GPL-3 + file LICENSE
+MD5sum: b4bca1ee2a487e0886f2fdd1f59d96eb
+NeedsCompilation: no
+
