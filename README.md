@@ -6,14 +6,15 @@ RDepot is a solution for the management of R package repositories in an enterpri
 
 ## Installation
 
-1. Clone the RDepot repository and go to its directory
+1. Clone this repository and go to its root directory
 2. Launch RDepot using the following command:
 ```
 docker-compose up
 ```
 
 ## Logging in
-Once the RDepot is launched, you can open your browser and go to
+
+Once RDepot is launched, you can open your browser and navigate to
 ```
 http://localhost
 ```
