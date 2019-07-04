@@ -1,8 +1,11 @@
 # RDepot
-Containerized version of RDepot.
+
+Containerized version of [RDepot](https://www.rdepot.io).
+
 RDepot is a solution for the management of R package repositories in an enterprise environment. It allows to submit packages through a user interface or API and to automatically update and publish R repositories. Multiple departments can manage their own repositories and different users can have different roles in the management of their packages.
 
 ## Installation
+
 1. Clone the RDepot repository and go to its directory
 2. Launch RDepot using the following command:
 ```
@@ -49,3 +52,5 @@ Once you uploaded your first package, you can try to install it.
 1. Go to "repositories" section and click on "Rep1" repository.  
 2. Click on the oaColors package.  
 3. You can install your package by following the instructions or download it by clicking on the link at the bottom of the page.
+
+#### Copyright (c) Copyright of Open Analytics NV, 2016-2019 - Apache 2.0 License
